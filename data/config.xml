@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config>
+	<currency_rates>
+		<usd>1.0</usd>
+		<eur>1.0</eur>
+		<gbp>1.0</gbp>
+	</currency_rates>
+</config>
